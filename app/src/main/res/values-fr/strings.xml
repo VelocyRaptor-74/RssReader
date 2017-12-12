@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur de flux RSS</string>
+    <string name="activity_main_menu_item_sort">Trier</string>
+    <string name="activity_main_menu_item_refresh">Rafraîchir</string>
+    <string name="activity_main_menu_item_display">Afficher</string>
+    <string name="activity_main_menu_item_share">Partager</string>
+</resources>

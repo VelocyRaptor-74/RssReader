@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rss reader</string>
+    <string name="activity_main_menu_item_sort">sort</string>
+    <string name="activity_main_menu_item_refresh">refresh</string>
+    <string name="activity_main_menu_item_display">display</string>
+    <string name="activity_main_menu_item_share">share</string>
+</resources>
